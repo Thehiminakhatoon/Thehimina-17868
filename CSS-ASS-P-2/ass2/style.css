@@ -1,0 +1,16 @@
+heading {
+    text-align: center;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: brown;
+}
+ul{
+    list-style-type: square;
+
+}
+ol{
+    list-style-type: lower-roman;
+}
